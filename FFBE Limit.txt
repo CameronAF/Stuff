@@ -8,6 +8,7 @@
 6 9S
 
 --Ability Awaken--
+Ayaka 0/3 (green, healing, tech)
 Queen 2.5/4 (support, support)
 Barbariccia 2/3 (support)
 Knight Delita 2/3 (power42)
@@ -16,4 +17,7 @@ Nyx 3/4 (power42)
 Fohlen 3/4 (power41)
 Ray Jack 3/4 (power41)
 Gilgamesh 2/3 (power41)
-Dark Knight Cecil 1/3 (support, power)
+Dark Knight Cecil 1/3 (support, power21)
+Lightning 0/3 (power22, power, support)
+Duke 0/4 (tech, power21, power11, healing)
+Gladiolus
