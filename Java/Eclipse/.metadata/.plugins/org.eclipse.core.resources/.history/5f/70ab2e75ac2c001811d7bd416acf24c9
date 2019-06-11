@@ -1,0 +1,72 @@
+package q5_3;
+
+import java.awt.*;
+import java.awt.geom.*;
+import javax.swing.*;
+
+/**
+ * 
+ * @author Cameron Anzola
+ * @class COP5339 001
+ * @data 3/19/2018
+ */
+public class Rectangle implements Icon {
+	private int width;
+	private int height;
+	private Color color;
+
+	/**
+	*  Constructor for class Circle
+	*  @precondition none
+	*  @postcondition a instance of Circle would have been intialized
+	*/
+	public Rectangle(int aSize, Color c)
+	{
+		width = aSize;
+		height = 50;
+	    color = c;
+	}
+	
+	/**
+	*  get the width of an instance of Circle
+	*  @precondition none
+	*  @return width of an instance of Circle
+	*/
+	public int getIconWidth()
+	{
+	    return width;
+	}
+	
+	/**
+	*  get the height of an instance of Circle
+	*  @precondition none
+	*  @return height of an instance of Circle
+	*/
+	public int getIconHeight()
+	{
+	    return height;
+	}
+	
+	/**
+	*/
+	public void setWidth(int width)
+	{
+	    this.width = width;
+	}
+	
+	/**
+	*  redraws the icon circle
+	*  @precondition none
+	*  @postcondition circle will be redrawn
+	*/
+	public void paintIcon(Component c, Graphics g, int x, int y)
+	{
+	    Graphics2D g2 = (Graphics2D) g;
+	    Rectangle2D.Double rec = new Rectangle2D.Double(x, y,
+                width,
+                height);
+	    g2.setColor(color);
+	    g2.fill(rec);
+	    g2.draw(rec);
+	}
+}

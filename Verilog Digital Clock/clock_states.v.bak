@@ -1,0 +1,13 @@
+module clock_state(clk, reset);
+reg [3:0] state, timeout;
+parameter show_time = 4'b0000,
+	show_alarm = 4'b0000
+	show_time = 4'b0000,
+	show_time = 4'b0000,
+	show_time = 4'b0000,
+	show_time = 4'b0000,
+	show_time = 4'b0000,;
+
+always@(posedge clk or posedge reset) begin
+	if (reset)
+		state = 

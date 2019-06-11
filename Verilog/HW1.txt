@@ -1,0 +1,13 @@
+Write the verilog code for the following and simulate using the modelsim. 
+
+1: Design a 2:1 Mux using gate level modeling. Write the test bench for this module as well.
+
+2. Design a 4:1 Mux using the 2:1 Mux designed in previous stage
+
+3. Design a 8:1 Mux using 4:1 Mux and 2:1 Mux
+
+4. Using the conditional assignment statements, write the verilog code for 16:1 Mux. Write the test bench for this module.
+
+Note: Students are expected to submit me the following files:
+
+- a single PDF document with all the codes for each of the part. Please make sure to start each part of the question on a new page

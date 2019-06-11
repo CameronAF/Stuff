@@ -1,0 +1,8 @@
+module HalfAdder(Carry, Sum, A, B);
+output Sum;
+output Carry;
+input A, B;
+
+xor C1(Sum, A, B);
+and C2(Carry, A, B);
+endmodule

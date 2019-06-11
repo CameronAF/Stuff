@@ -1,0 +1,5 @@
+package q5_2;
+
+public class Spanish implements LanguageStrategy {
+
+}

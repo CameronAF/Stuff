@@ -1,0 +1,148 @@
+C:/Users/camer/Desktop/VLSI/Verilog/Mealy_StateMachine.v {1 {vlog -work work -stats=none C:/Users/camer/Desktop/VLSI/Verilog/Mealy_StateMachine.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mealy_1101
+
+Top level modules:
+	mealy_1101
+
+} {} {}} C:/Users/camer/Desktop/VLSI/Verilog/HW1_1_test.v {1 {vlog -work work -stats=none C:/Users/camer/Desktop/VLSI/Verilog/HW1_1_test.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Mut2_1_test
+
+Top level modules:
+	Mut2_1_test
+
+} {} {}} C:/Users/camer/Desktop/VLSI/Verilog/HW1_1.v {1 {vlog -work work -stats=none C:/Users/camer/Desktop/VLSI/Verilog/HW1_1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Mut2_1
+
+Top level modules:
+	Mut2_1
+
+} {} {}} C:/Users/camer/Desktop/VLSI/Verilog/HW3_1_test.v {1 {vlog -work work -stats=none C:/Users/camer/Desktop/VLSI/Verilog/HW3_1_test.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mealy_serial_adder_test
+
+Top level modules:
+	mealy_serial_adder_test
+
+} {} {}} C:/Users/camer/Desktop/VLSI/Verilog/HW2_2_test.v {1 {vlog -work work -stats=none C:/Users/camer/Desktop/VLSI/Verilog/HW2_2_test.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FullAdder_test
+
+Top level modules:
+	FullAdder_test
+
+} {} {}} C:/Users/camer/Desktop/VLSI/Verilog/HW1_2.v {1 {vlog -work work -stats=none C:/Users/camer/Desktop/VLSI/Verilog/HW1_2.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Mut4_1
+
+Top level modules:
+	Mut4_1
+
+} {} {}} C:/Users/camer/Desktop/VLSI/Verilog/HW2_1.v {1 {vlog -work work -stats=none C:/Users/camer/Desktop/VLSI/Verilog/HW2_1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module HalfAdder
+
+Top level modules:
+	HalfAdder
+
+} {} {}} C:/Users/camer/Desktop/VLSI/Verilog/HW3_1.v {1 {vlog -work work -stats=none C:/Users/camer/Desktop/VLSI/Verilog/HW3_1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mealy_serial_adder
+
+Top level modules:
+	mealy_serial_adder
+
+} {} {}} C:/Users/camer/Desktop/VLSI/Verilog/HW2_2.v {1 {vlog -work work -stats=none C:/Users/camer/Desktop/VLSI/Verilog/HW2_2.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FullAdder
+
+Top level modules:
+	FullAdder
+
+} {} {}} C:/Users/camer/Desktop/VLSI/Verilog/HW1_3.v {1 {vlog -work work -stats=none C:/Users/camer/Desktop/VLSI/Verilog/HW1_3.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Mut8_1
+
+Top level modules:
+	Mut8_1
+
+} {} {}} C:/Users/camer/Desktop/VLSI/Verilog/mux.v {1 {vlog -work work -stats=none C:/Users/camer/Desktop/VLSI/Verilog/mux.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux_2to1_dataflow
+
+Top level modules:
+	mux_2to1_dataflow
+
+} {} {}} C:/Users/camer/Desktop/VLSI/Verilog/dataflow.v {1 {vlog -work work -stats=none C:/Users/camer/Desktop/VLSI/Verilog/dataflow.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module dataflow
+
+Top level modules:
+	dataflow
+
+} {} {}} C:/Users/camer/Desktop/VLSI/Verilog/HW3_2.v {1 {vlog -work work -stats=none C:/Users/camer/Desktop/VLSI/Verilog/HW3_2.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module moore_serial_adder
+
+Top level modules:
+	moore_serial_adder
+
+} {} {}} C:/Users/camer/Desktop/VLSI/Verilog/HW1_4.v {1 {vlog -work work -stats=none C:/Users/camer/Desktop/VLSI/Verilog/HW1_4.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Mut16_1
+
+Top level modules:
+	Mut16_1
+
+} {} {}} C:/Users/camer/Desktop/VLSI/Verilog/HW2_3.v {1 {vlog -work work -stats=none C:/Users/camer/Desktop/VLSI/Verilog/HW2_3.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Adder_4bit
+
+Top level modules:
+	Adder_4bit
+
+} {} {}} C:/Users/camer/Desktop/VLSI/Verilog/HW2_1_test.v {1 {vlog -work work -stats=none C:/Users/camer/Desktop/VLSI/Verilog/HW2_1_test.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module HalfAdder_test
+
+Top level modules:
+	HalfAdder_test
+
+} {} {}} C:/Users/camer/Desktop/VLSI/Verilog/first_circuit_test.v {1 {vlog -work work -stats=none C:/Users/camer/Desktop/VLSI/Verilog/first_circuit_test.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module first_circuit_test
+
+Top level modules:
+	first_circuit_test
+
+} {} {}} C:/Users/camer/Desktop/VLSI/Verilog/HW3_2_test.v {1 {vlog -work work -stats=none C:/Users/camer/Desktop/VLSI/Verilog/HW3_2_test.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module moore_serial_adder_test
+
+Top level modules:
+	moore_serial_adder_test
+
+} {} {}} C:/Users/camer/Desktop/VLSI/Verilog/first_circuit.v {1 {vlog -work work -stats=none C:/Users/camer/Desktop/VLSI/Verilog/first_circuit.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module first_circuit
+
+Top level modules:
+	first_circuit
+
+} {} {}} C:/Users/camer/Desktop/VLSI/Verilog/HW1_4_test.v {1 {vlog -work work -stats=none C:/Users/camer/Desktop/VLSI/Verilog/HW1_4_test.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Mut16_1_test
+
+Top level modules:
+	Mut16_1_test
+
+} {} {}} C:/Users/camer/Desktop/VLSI/Verilog/HW2_3_test.v {1 {vlog -work work -stats=none C:/Users/camer/Desktop/VLSI/Verilog/HW2_3_test.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Adder_4bit_test
+
+Top level modules:
+	Adder_4bit_test
+
+} {} {}}

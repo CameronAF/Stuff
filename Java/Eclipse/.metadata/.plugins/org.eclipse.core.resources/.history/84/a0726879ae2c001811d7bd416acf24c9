@@ -1,0 +1,19 @@
+package q5_3;
+
+import javax.swing.JTextField;
+
+public class Textfield extends JTextField implements Observable {
+
+	@Override
+	public void addObserver(Observer O) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void notifyObserver() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

@@ -1,0 +1,24 @@
+package q5_2;
+
+//text editor class that benefits from multiple variants of a spell checking algorithm
+public class TextEditor {
+	private String languageToCheck;
+    private LanguageStrategy strategy;
+
+    // constructor
+    public TextEditor(final LanguageStrategy strategy) {
+        this.strategy = strategy;
+        this.languageToCheck = strategy.getLangToUse();
+    }
+
+    // Print which language is being used
+    public void printLangInUse() {
+        System.out.println("User using " + languageToCheck + " language in spell checker");
+    }
+
+    // Set Strategy
+    public void setStrategy(final LanguageStrategy strategy) {
+        this.strategy = strategy;
+        this.languageToCheck = strategy.getLangToUse();
+    }
+}

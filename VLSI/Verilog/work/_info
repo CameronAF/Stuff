@@ -1,0 +1,484 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/camer/Desktop/VLSI/Verilog
+vAdder_4bit
+Z1 !s110 1528787978
+!i10b 1
+!s100 :VHOA[P6jjA]?MlWNZjj^2
+IJSX4LDcgl>EHSJTCO4mTZ1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1528003893
+Z3 8C:/Users/camer/Desktop/VLSI/Verilog/HW2_3.v
+Z4 FC:/Users/camer/Desktop/VLSI/Verilog/HW2_3.v
+L0 1
+Z5 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z6 !s108 1528787978.000000
+Z7 !s107 C:/Users/camer/Desktop/VLSI/Verilog/HW2_3.v|
+Z8 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/camer/Desktop/VLSI/Verilog/HW2_3.v|
+!s101 -O0
+!i113 1
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@adder_4bit
+vadder_4bit
+!s110 1528002876
+!i10b 1
+!s100 EK25434YSUJ@k<dMDlGYX2
+IKFe_Tne@hEIb?oXXYmJej0
+R2
+R0
+w1528002875
+R3
+R4
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1528002876.000000
+R7
+R8
+!s101 -O0
+!i113 1
+R9
+vAdder_4bit_test
+R1
+!i10b 1
+!s100 SVo0KlokC5P7IdT@]X?dg1
+I:GS@UgACAi?:?b:=?XAzd0
+R2
+R0
+w1528004664
+8C:/Users/camer/Desktop/VLSI/Verilog/HW2_3_test.v
+FC:/Users/camer/Desktop/VLSI/Verilog/HW2_3_test.v
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/camer/Desktop/VLSI/Verilog/HW2_3_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/camer/Desktop/VLSI/Verilog/HW2_3_test.v|
+!s101 -O0
+!i113 1
+R9
+n@adder_4bit_test
+vdataflow
+Z10 !s110 1528787977
+!i10b 1
+!s100 Z6fSTQ=XI2ndH4T0JF`gQ1
+ISEa_z`WHYSgWDR9=f?nD:3
+R2
+R0
+w1527403157
+8C:/Users/camer/Desktop/VLSI/Verilog/dataflow.v
+FC:/Users/camer/Desktop/VLSI/Verilog/dataflow.v
+L0 2
+R5
+r1
+!s85 0
+31
+Z11 !s108 1528787977.000000
+!s107 C:/Users/camer/Desktop/VLSI/Verilog/dataflow.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/camer/Desktop/VLSI/Verilog/dataflow.v|
+!s101 -O0
+!i113 1
+R9
+vfirst_circuit
+R10
+!i10b 1
+!s100 0cB^@IgN:e06<2KLjER<C1
+IYWHi_kPHE=ZfbneKj7cgk2
+R2
+R0
+w1527995250
+8C:/Users/camer/Desktop/VLSI/Verilog/first_circuit.v
+FC:/Users/camer/Desktop/VLSI/Verilog/first_circuit.v
+L0 2
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/camer/Desktop/VLSI/Verilog/first_circuit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/camer/Desktop/VLSI/Verilog/first_circuit.v|
+!s101 -O0
+!i113 1
+R9
+vfirst_circuit_test
+R10
+!i10b 1
+!s100 j0C;FJBmG^E:LLf1AVCNS0
+IUBVVN;D7cEA_i74H^XNA`3
+R2
+R0
+w1527383176
+8C:/Users/camer/Desktop/VLSI/Verilog/first_circuit_test.v
+FC:/Users/camer/Desktop/VLSI/Verilog/first_circuit_test.v
+L0 1
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/camer/Desktop/VLSI/Verilog/first_circuit_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/camer/Desktop/VLSI/Verilog/first_circuit_test.v|
+!s101 -O0
+!i113 1
+R9
+vFullAdder
+R1
+!i10b 1
+!s100 jWJ3GmY?SmV[]_OTj<o^?0
+I8d0cSQTzW8NkoghJOOYP00
+R2
+R0
+w1528001420
+8C:/Users/camer/Desktop/VLSI/Verilog/HW2_2.v
+FC:/Users/camer/Desktop/VLSI/Verilog/HW2_2.v
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/camer/Desktop/VLSI/Verilog/HW2_2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/camer/Desktop/VLSI/Verilog/HW2_2.v|
+!s101 -O0
+!i113 1
+R9
+n@full@adder
+vFullAdder_test
+R1
+!i10b 1
+!s100 BiQnVRQ]7KECgH;X[MLCG1
+I4i`KA>R^NWQIO`dLU;V180
+R2
+R0
+w1528001873
+8C:/Users/camer/Desktop/VLSI/Verilog/HW2_2_test.v
+FC:/Users/camer/Desktop/VLSI/Verilog/HW2_2_test.v
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/camer/Desktop/VLSI/Verilog/HW2_2_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/camer/Desktop/VLSI/Verilog/HW2_2_test.v|
+!s101 -O0
+!i113 1
+R9
+n@full@adder_test
+vHalfAdder
+R1
+!i10b 1
+!s100 <Jang?C@ND4EbMoaSeEP_2
+Il6>WjCEHFY7SI:O:6U:b@2
+R2
+R0
+w1528000412
+8C:/Users/camer/Desktop/VLSI/Verilog/HW2_1.v
+FC:/Users/camer/Desktop/VLSI/Verilog/HW2_1.v
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/camer/Desktop/VLSI/Verilog/HW2_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/camer/Desktop/VLSI/Verilog/HW2_1.v|
+!s101 -O0
+!i113 1
+R9
+n@half@adder
+vHalfAdder_test
+R1
+!i10b 1
+!s100 0hI022_j736RMHz^klbA92
+I8dao@KZBl]OTHDck38U2@1
+R2
+R0
+w1528000917
+8C:/Users/camer/Desktop/VLSI/Verilog/HW2_1_test.v
+FC:/Users/camer/Desktop/VLSI/Verilog/HW2_1_test.v
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/camer/Desktop/VLSI/Verilog/HW2_1_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/camer/Desktop/VLSI/Verilog/HW2_1_test.v|
+!s101 -O0
+!i113 1
+R9
+n@half@adder_test
+vmealy_1101
+R1
+!i10b 1
+!s100 IkN_JRcHjWo840HJ4XQ2e2
+IJM:<EPeg=9mBnMB6]U4Fg1
+R2
+R0
+w1528349376
+8C:/Users/camer/Desktop/VLSI/Verilog/Mealy_StateMachine.v
+FC:/Users/camer/Desktop/VLSI/Verilog/Mealy_StateMachine.v
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/camer/Desktop/VLSI/Verilog/Mealy_StateMachine.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/camer/Desktop/VLSI/Verilog/Mealy_StateMachine.v|
+!s101 -O0
+!i113 1
+R9
+vmealy_serial_adder
+!s110 1528789176
+!i10b 1
+!s100 ?zb<8QKca75BFG6;?WW_J0
+IG43jX2P2j[KZe`D?K6?fG1
+R2
+R0
+w1528787123
+8C:/Users/camer/Desktop/VLSI/Verilog/HW3_1.v
+FC:/Users/camer/Desktop/VLSI/Verilog/HW3_1.v
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1528789176.000000
+!s107 C:/Users/camer/Desktop/VLSI/Verilog/HW3_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/camer/Desktop/VLSI/Verilog/HW3_1.v|
+!s101 -O0
+!i113 1
+R9
+vmealy_serial_adder_test
+Z12 !s110 1528787979
+!i10b 1
+!s100 E>6>3ZHCGAL;S=PaRg>S72
+IVVblZnkzS9HKOSfO0E?OO2
+R2
+R0
+w1528787300
+8C:/Users/camer/Desktop/VLSI/Verilog/HW3_1_test.v
+FC:/Users/camer/Desktop/VLSI/Verilog/HW3_1_test.v
+L0 1
+R5
+r1
+!s85 0
+31
+Z13 !s108 1528787979.000000
+!s107 C:/Users/camer/Desktop/VLSI/Verilog/HW3_1_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/camer/Desktop/VLSI/Verilog/HW3_1_test.v|
+!s101 -O0
+!i113 1
+R9
+vmoore_serial_adder
+!s110 1528789853
+!i10b 1
+!s100 G`ZbMR?W6oWXQPkn`kHPJ3
+I@T@SPK7A9E35Vlo58P57o3
+R2
+R0
+w1528789852
+8C:/Users/camer/Desktop/VLSI/Verilog/HW3_2.v
+FC:/Users/camer/Desktop/VLSI/Verilog/HW3_2.v
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1528789853.000000
+!s107 C:/Users/camer/Desktop/VLSI/Verilog/HW3_2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/camer/Desktop/VLSI/Verilog/HW3_2.v|
+!s101 -O0
+!i113 1
+R9
+vmoore_serial_adder_test
+R12
+!i10b 1
+!s100 7I53M3MlNWJ9<fm1S^@lI1
+I@36NBAQCco=Me^Xk0TfR23
+R2
+R0
+w1528787334
+8C:/Users/camer/Desktop/VLSI/Verilog/HW3_2_test.v
+FC:/Users/camer/Desktop/VLSI/Verilog/HW3_2_test.v
+L0 1
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/camer/Desktop/VLSI/Verilog/HW3_2_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/camer/Desktop/VLSI/Verilog/HW3_2_test.v|
+!s101 -O0
+!i113 1
+R9
+vMut16_1
+R1
+!i10b 1
+!s100 czEXmKoclj`T9E]LemQdo2
+ITXCmb2];M_<Pa[>TPG_hU1
+R2
+R0
+w1527997717
+8C:/Users/camer/Desktop/VLSI/Verilog/HW1_4.v
+FC:/Users/camer/Desktop/VLSI/Verilog/HW1_4.v
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/camer/Desktop/VLSI/Verilog/HW1_4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/camer/Desktop/VLSI/Verilog/HW1_4.v|
+!s101 -O0
+!i113 1
+R9
+n@mut16_1
+vMut16_1_test
+R1
+!i10b 1
+!s100 :^A@SzkhkLN^f:MiU^]1N3
+IL8Q2`NKYRghYn<PaEhPVg3
+R2
+R0
+w1527998866
+8C:/Users/camer/Desktop/VLSI/Verilog/HW1_4_test.v
+FC:/Users/camer/Desktop/VLSI/Verilog/HW1_4_test.v
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/camer/Desktop/VLSI/Verilog/HW1_4_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/camer/Desktop/VLSI/Verilog/HW1_4_test.v|
+!s101 -O0
+!i113 1
+R9
+n@mut16_1_test
+vMut2_1
+R10
+!i10b 1
+!s100 @c[oA>I^akTC_GQISmUn50
+IPL39@MOi?]Idhaf;j<]m`1
+R2
+R0
+w1527995613
+8C:/Users/camer/Desktop/VLSI/Verilog/HW1_1.v
+FC:/Users/camer/Desktop/VLSI/Verilog/HW1_1.v
+L0 1
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/camer/Desktop/VLSI/Verilog/HW1_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/camer/Desktop/VLSI/Verilog/HW1_1.v|
+!s101 -O0
+!i113 1
+R9
+n@mut2_1
+vMut2_1_test
+R10
+!i10b 1
+!s100 DTgOoN`JiKPWQDMk^oO8O1
+IKS]C52<odo_NSk>>LjYni0
+R2
+R0
+w1527996077
+8C:/Users/camer/Desktop/VLSI/Verilog/HW1_1_test.v
+FC:/Users/camer/Desktop/VLSI/Verilog/HW1_1_test.v
+L0 1
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/camer/Desktop/VLSI/Verilog/HW1_1_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/camer/Desktop/VLSI/Verilog/HW1_1_test.v|
+!s101 -O0
+!i113 1
+R9
+n@mut2_1_test
+vMut4_1
+R10
+!i10b 1
+!s100 YMmaifCCm`CIHVjO93ihF1
+IPzaMIoAz6JlV`2PWnkWg30
+R2
+R0
+w1527997139
+8C:/Users/camer/Desktop/VLSI/Verilog/HW1_2.v
+FC:/Users/camer/Desktop/VLSI/Verilog/HW1_2.v
+L0 1
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/camer/Desktop/VLSI/Verilog/HW1_2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/camer/Desktop/VLSI/Verilog/HW1_2.v|
+!s101 -O0
+!i113 1
+R9
+n@mut4_1
+vMut8_1
+R1
+!i10b 1
+!s100 d0hlY7gYco>YjKXkJMi5n2
+IbZ6Va@3WQKGd`oh^8L@<b0
+R2
+R0
+w1527997443
+8C:/Users/camer/Desktop/VLSI/Verilog/HW1_3.v
+FC:/Users/camer/Desktop/VLSI/Verilog/HW1_3.v
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/camer/Desktop/VLSI/Verilog/HW1_3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/camer/Desktop/VLSI/Verilog/HW1_3.v|
+!s101 -O0
+!i113 1
+R9
+n@mut8_1
+vmux_2to1_dataflow
+R10
+!i10b 1
+!s100 Kjc7;am7aJE9AHE3_Ezn51
+Inh788VY8Z9oZFA[Q1VnOz0
+R2
+R0
+w1527404182
+8C:/Users/camer/Desktop/VLSI/Verilog/mux.v
+FC:/Users/camer/Desktop/VLSI/Verilog/mux.v
+L0 12
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/camer/Desktop/VLSI/Verilog/mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/camer/Desktop/VLSI/Verilog/mux.v|
+!s101 -O0
+!i113 1
+R9

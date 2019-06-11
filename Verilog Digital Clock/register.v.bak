@@ -1,0 +1,15 @@
+module register(alarm_time, new_alarm_time, load_new_alarm, reset);
+output [15:0] alarm_time;
+input [15:0] new_alarm_time;
+input load_new_alarm;
+reg [15:0] alarm_time;
+
+always@(posedge load_new_alarm or posedge reset)
+begin
+	if (reset == 1'b1)
+		alarm_time = 0;
+	else
+		alarm_time = new_alarm_time;
+end
+endmodule
+	

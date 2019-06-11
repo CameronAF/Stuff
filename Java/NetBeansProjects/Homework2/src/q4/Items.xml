@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<item upc="1111">
+  <name>Eggs</name>
+  <price>3.86</price>
+</item>
+<item upc="2222">
+  <name>Butter</name>
+  <price>1.49</price>
+</item>
+<item upc="3333">
+  <name>Milk</name>
+  <price>4.59</price>
+</item>
+<item upc="4444">
+  <name>Chicken Tenderloins</name>
+  <price>9.99</price>
+</item>
+<item upc="5555">
+  <name>Bacen</name>
+  <price>4.99</price>
+</item>
+<item upc="6666">
+  <name>Chocolate</name>
+  <price>6.25</price>
+</item>
+<item upc="7777">
+  <name>Rice</name>
+  <price>2.50</price>
+</item>
+<item upc="8888">
+  <name>Dish Soap</name>
+  <price>15.99</price>
+</item>

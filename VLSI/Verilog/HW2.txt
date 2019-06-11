@@ -1,0 +1,7 @@
+1. Write the Verilog code for a half adder circuit using gate level modeling and write the test bench for validating your design
+
+2. Write the Verilog code for a full adder circuit and write the test bench for validating your design
+
+3. Using half adder and full adder circuit, write the Verilog code for a 4-bit adder circuit. Test at least 8 conditions for validating your design with the test bench.
+
+Please make sure to upload a single PDF file with your codes. 

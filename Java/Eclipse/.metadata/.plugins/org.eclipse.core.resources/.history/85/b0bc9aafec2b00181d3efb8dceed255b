@@ -1,0 +1,6 @@
+package q5_2;
+
+//Interface for strategy pattern
+public interface LanguageStrategy {
+	String getLangToUse();
+}

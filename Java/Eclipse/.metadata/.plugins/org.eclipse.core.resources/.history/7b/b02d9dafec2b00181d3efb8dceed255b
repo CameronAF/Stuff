@@ -1,0 +1,10 @@
+package q5_2;
+
+//Spanish strategy (Spanish Language)
+public class Spanish implements LanguageStrategy {
+
+	@Override
+    public String getLangToUse() {
+        return "Spanish";
+    }
+}

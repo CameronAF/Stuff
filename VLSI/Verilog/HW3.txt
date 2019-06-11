@@ -1,0 +1,5 @@
+Write the Verilog code for the following circuits:
+
+- Mealy State machine design for a Serial Adder Circuit
+
+- Moore State Machine design for a Serial Adder Circuit

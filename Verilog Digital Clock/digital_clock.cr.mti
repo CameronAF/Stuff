@@ -1,0 +1,72 @@
+C:/Users/camer/Desktop/VLSI/Project/test.v {1 {vlog -work work -stats=none C:/Users/camer/Desktop/VLSI/Project/test.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+
+} {} {}} C:/Users/camer/Desktop/VLSI/Project/main_clock.v {0 {vlog -work work -stats=none C:/Users/camer/Desktop/VLSI/Project/main_clock.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module main_clock
+** Error: (vlog-13069) C:/Users/camer/Desktop/VLSI/Project/main_clock.v(3): near "EOF": syntax error, unexpected end of source code.
+
+
+} {4.0 5.0} {}} C:/Users/camer/Desktop/VLSI/Project/seg_display.v {1 {vlog -work work -stats=none {C:\Users\camer\Desktop\VLSI\Project\seg_display.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module seg_display
+
+Top level modules:
+	seg_display
+
+} {} {}} C:/Users/camer/Desktop/VLSI/Project/counter.v {1 {vlog -work work -stats=none C:/Users/camer/Desktop/VLSI/Project/counter.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} C:/Users/camer/Desktop/VLSI/Project/register.v {1 {vlog -work work -stats=none C:/Users/camer/Desktop/VLSI/Project/register.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alarm_register
+
+Top level modules:
+	alarm_register
+
+} {} {}} C:/Users/camer/Desktop/VLSI/Project/keyscan.v {1 {vlog -work work -stats=none C:/Users/camer/Desktop/VLSI/Project/keyscan.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module keyscan
+
+Top level modules:
+	keyscan
+
+} {} {}} C:/Users/camer/Desktop/VLSI/Project/keypad.v {0 {vlog -work work -stats=none C:/Users/camer/Desktop/VLSI/Project/keypad.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module keypad
+** Error: (vlog-13069) C:/Users/camer/Desktop/VLSI/Project/keypad.v(15): near "<": syntax error, unexpected '<'.
+
+** Error: C:/Users/camer/Desktop/VLSI/Project/keypad.v(17): (vlog-2730) Undefined variable: 'column'.
+
+
+} {4.0 5.0 6.0 7.0} {}} C:/Users/camer/Desktop/VLSI/Project/generator.v {1 {vlog -work work -stats=none C:/Users/camer/Desktop/VLSI/Project/generator.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module generator
+
+Top level modules:
+	generator
+
+} {} {}} C:/Users/camer/Desktop/VLSI/Project/multiplexer.v {1 {vlog -work work -stats=none {C:\Users\camer\Desktop\VLSI\Project\multiplexer.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mltiplexer
+
+Top level modules:
+	mltiplexer
+
+} {} {}} C:/Users/camer/Desktop/VLSI/Project/clock_states.v {0 {vlog -work work -stats=none C:/Users/camer/Desktop/VLSI/Project/clock_states.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+** Error: (vlog-13069) C:/Users/camer/Desktop/VLSI/Project/clock_states.v(1): near "EOF": syntax error, unexpected end of source code, expecting import or ';' or '#' or '('.
+
+
+} {3.0 4.0} {}} C:/Users/camer/Desktop/VLSI/Project/hierarchy.v {1 {vlog -work work -stats=none C:/Users/camer/Desktop/VLSI/Project/hierarchy.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module hierarchy
+
+Top level modules:
+	hierarchy
+
+} {} {}}

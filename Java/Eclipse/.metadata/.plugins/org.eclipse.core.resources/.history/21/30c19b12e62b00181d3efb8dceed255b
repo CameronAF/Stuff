@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package q5_2;
+
+/**
+ * @author camer
+ *
+ */
+public interface LanguageStrategy {
+
+}

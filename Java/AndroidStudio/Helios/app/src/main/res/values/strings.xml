@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Helios</string>
+    <string name="title_activity_automatic">Automatic</string>
+    <string name="title_activity_manual">Manual</string>
+    <string name="M_Forward">Moving Forward</string>
+    <string name="M_Left">Rotating Left</string>
+    <string name="M_Right">Rotating Right</string>
+    <string name="M_Backwards">Moving Backwards</string>
+    <string name="M_Idle">Sitting Idle</string>
+    <string name="M_Start">Click on Directional Pad to start moving</string>
+    <string name="DPad">Directional Pad</string>
+    <string name="M_Here">You have reached your destination</string>
+</resources>
