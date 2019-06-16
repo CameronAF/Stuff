@@ -1,6 +1,0 @@
-package q5_3;
-
-public interface Observer {
-
-	public void update();
-}
